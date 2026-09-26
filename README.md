@@ -67,16 +67,16 @@ Much of what I build comes directly from problems encountered while operating re
 
 | Project                                                             | What it does                                                                                                                                                              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**StePanel**](https://github.com/itchyitchy123/StePanel)           | Operator-focused Linux hosting control plane written in Go for server management, cPanel migrations, backups, database operations, auditing, and infrastructure workflows |
-| [**FPM Lens**](https://github.com/itchyitchy123/FPM_Lens)           | Evidence-based PHP-FPM capacity planner that analyzes real memory usage and generates explainable, memory-bounded configuration recommendations                           |
-| [**WayExpand**](https://github.com/itchyitchy123/wayexpand)         | Privacy-first Wayland text expander for Linux written in Rust, with GUI/CLI management, snippet automation, Espanso import, and multiple native Wayland backends          |
-| [**MailSwiftSync**](https://github.com/itchyitchy123/MailSwiftSync) | Mail migration control plane designed to make large mailbox migrations observable, reviewable, recoverable, and verifiable                                                |
+| [**StePanel**](https://github.com/cyberducttape/StePanel)           | Operator-focused Linux hosting control plane written in Go for server management, cPanel migrations, backups, database operations, auditing, and infrastructure workflows |
+| [**FPM Lens**](https://github.com/cyberducttape/FPM_Lens)           | Evidence-based PHP-FPM capacity planner that analyzes real memory usage and generates explainable, memory-bounded configuration recommendations                           |
+| [**WayExpand**](https://github.com/cyberducttape/wayexpand)         | Privacy-first Wayland text expander for Linux written in Rust, with GUI/CLI management, snippet automation, Espanso import, and multiple native Wayland backends          |
+| [**MailSwiftSync**](https://github.com/cyberducttape/MailSwiftSync) | Mail migration control plane designed to make large mailbox migrations observable, reviewable, recoverable, and verifiable                                                |
 
 ---
 
 ## Currently Building
 
-### [StePanel](https://github.com/itchyitchy123/StePanel)
+### [StePanel](https://github.com/cyberducttape/StePanel)
 
 A safety-first control plane for Linux hosting infrastructure.
 
@@ -98,7 +98,7 @@ The project is written primarily in **Go** and focuses on building reliable oper
 
 ---
 
-### [FPM Lens](https://github.com/itchyitchy123/FPM_Lens)
+### [FPM Lens](https://github.com/cyberducttape/FPM_Lens)
 
 A review-first PHP-FPM capacity planning and analysis tool.
 
@@ -116,7 +116,7 @@ Recommendations are presented for human review rather than automatically modifyi
 
 ---
 
-### [WayExpand](https://github.com/itchyitchy123/wayexpand)
+### [WayExpand](https://github.com/cyberducttape/wayexpand)
 
 A privacy-first text expansion platform built specifically for modern Linux Wayland desktops.
 
@@ -141,7 +141,7 @@ The long-term goal is simple:
 
 ---
 
-### [MailSwiftSync](https://github.com/itchyitchy123/MailSwiftSync)
+### [MailSwiftSync](https://github.com/cyberducttape/MailSwiftSync)
 
 A migration control plane for large mailbox moves.
 
@@ -206,6 +206,6 @@ I'm continuing to deepen my work in:
 
 * [LinkedIn](https://www.linkedin.com/in/stephan-loesevitz-85646b225/)
 * [cyberducttape.com](https://cyberducttape.com)
-* [GitHub Projects](https://github.com/itchyitchy123?tab=repositories)
+* [GitHub Projects](https://github.com/cyberducttape?tab=repositories)
 
 Open to conversations around **Linux infrastructure, systems engineering, SRE, platform operations, hosting automation, and infrastructure tooling**.
